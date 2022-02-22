@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abir",
+      "username": "abir",
+      "email": "abir@yopmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Hasan",
+      "username": "hasan",
+      "email": "hasan@yopmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Mubin",
+      "username": "mubin",
+      "email": "mubin@yopmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 3
+    },
+    {
+      "id": 7,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 2
+    },
+    {
+      "id": 9,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 3
+    },
+    {
+      "id": 10,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 3
+    },
+    {
+      "id": 13,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 2
+    },
+    {
+      "id": 15,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 3
+    },
+    {
+      "id": 16,
+      "title": "Post Title",
+      "body": "Post Body",
+      "userId": 1
+    }
+  ]
+}
